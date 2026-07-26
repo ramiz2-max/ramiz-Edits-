@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Ramiz Editz | Professional Mobile Video Editor</title>
+
+<meta name="description" content="Ramiz Editz - Professional Mobile Video Editor. Premium Quality Editing at Affordable Prices.">
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- ================= NAVBAR ================= -->
+
+<nav>
+
+<div class="logo">
+
+RAMIZ EDITZ
+
+</div>
+
+<ul class="nav-links">
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#services">Services</a></li>
+
+<li><a href="#portfolio">Portfolio</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<div class="menu-btn">
+
+<i class="fas fa-bars"></i>
+
+</div>
+
+</nav>
+
+<!-- ================= HERO ================= -->
+
+<section class="hero" id="home">
+
+<div class="hero-content">
+
+<h1>RAMIZ EDITZ</h1>
+
+<h2>Professional Mobile Video Editor</h2>
+
+<p id="typing"></p>
+
+<div class="hero-buttons">
+
+<a href="#portfolio" class="btn">
+
+View Portfolio
+
+</a>
+
+<a href="https://www.instagram.com/ramiz.99__"
+
+target="_blank"
+
+class="btn btn2">
+
+Hire Me
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= ABOUT ================= -->
+
+<section id="about">
+
+<div class="container">
+
+<h2 class="title">
+
+About Me
+
+</h2>
+
+<div class="card">
+
+<p>
+
+I am <b>Ramiz Editz</b>, a passionate mobile video editor with <b>2 years of experience</b> creating high-quality content for Instagram Reels, YouTube Shorts and social media.
+
+</p>
+
+<br>
+
+<p>
+
+I specialize in cinematic edits, beat sync, velocity edits and engaging storytelling.
+
+</p>
+
+<br>
+
+<p>
+
+<b>Premium Quality Editing at Affordable Prices.</b>
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= SERVICES ================= -->
+
+<section id="services">
+
+<div class="container">
+
+<h2 class="title">
+
+My Services
+
+</h2>
+
+<div class="grid">
+
+<div class="service-card">
+
+<i class="fas fa-film"></i>
+
+<h3>Instagram Reels</h3>
+
+</div>
+
+<div class="service-card">
+
+<i class="fab fa-youtube"></i>
+
+<h3>YouTube Shorts</h3>
+
+</div>
+
+<div class="service-card">
+
+<i class="fas fa-bolt"></i>
+
+<h3>Beat Sync</h3>
+
+</div>
+
+<div class="service-card">
+
+<i class="fas fa-video"></i>
+
+<h3>Cinematic Editing</h3>
+
+</div>
+
+<div class="service-card">
+
+<i class="fas fa-palette"></i>
+
+<h3>Color Grading</h3>
+
+</div>
+
+<div class="service-card">
+
+<i class="fas fa-mobile-screen"></i>
+
+<h3>Social Media Videos</h3>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
