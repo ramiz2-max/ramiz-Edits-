@@ -1,0 +1,123 @@
+// ===============================
+// Mobile Menu
+// ===============================
+
+const menuBtn = document.querySelector(".menu-btn");
+const navLinks = document.querySelector(".nav-links");
+
+if (menuBtn) {
+  menuBtn.addEventListener("click", () => {
+    navLinks.classList.toggle("active");
+  });
+}
+
+// ===============================
+// Typing Effect
+// ===============================
+
+const typing = document.getElementById("typing");
+
+const text =
+"Premium Quality Editing • Affordable Price • Fast Delivery";
+
+let i = 0;
+
+function typeText() {
+
+if (typing && i < text.length) {
+
+typing.innerHTML += text.charAt(i);
+
+i++;
+
+setTimeout(typeText, 60);
+
+}
+
+}
+
+window.onload = typeText;
+
+// ===============================
+// Scroll Reveal Animation
+// ===============================
+
+const observer = new IntersectionObserver(entries => {
+
+entries.forEach(entry => {
+
+if(entry.isIntersecting){
+
+entry.target.classList.add("show");
+
+}
+
+});
+
+});
+
+document.querySelectorAll(".fade").forEach(el=>{
+
+observer.observe(el);
+
+});
+
+// ===============================
+// Navbar Background
+// ===============================
+
+window.addEventListener("scroll",()=>{
+
+const nav=document.querySelector("nav");
+
+if(window.scrollY>50){
+
+nav.style.background="rgba(0,0,0,.9)";
+
+}else{
+
+nav.style.background="rgba(0,0,0,.6)";
+
+}
+
+});
+
+// ===============================
+// Smooth Scroll
+// ===============================
+
+document.querySelectorAll('a[href^="#"]').forEach(anchor=>{
+
+anchor.addEventListener("click",function(e){
+
+e.preventDefault();
+
+document.querySelector(this.getAttribute("href")).scrollIntoView({
+
+behavior:"smooth"
+
+});
+
+});
+
+});
+
+// ===============================
+// Button Hover Animation
+// ===============================
+
+document.querySelectorAll(".btn").forEach(btn=>{
+
+btn.addEventListener("mouseenter",()=>{
+
+btn.style.transform="scale(1.05)";
+
+});
+
+btn.addEventListener("mouseleave",()=>{
+
+btn.style.transform="scale(1)";
+
+});
+
+});
