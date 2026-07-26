@@ -196,3 +196,152 @@ My Services
 </div>
 
 </section>
+
+<!-- ================= EDITING APPS ================= -->
+
+<section id="apps">
+
+<div class="container">
+
+<h2 class="title">Editing Apps</h2>
+
+<div class="grid">
+
+<div class="service-card">CapCut</div>
+
+<div class="service-card">Alight Motion</div>
+
+<div class="service-card">VN Editor</div>
+
+<div class="service-card">KineMaster</div>
+
+<div class="service-card">InShot</div>
+
+<div class="service-card">Other Mobile Editing Apps</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= PORTFOLIO ================= -->
+
+<section id="portfolio">
+
+<div class="container">
+
+<h2 class="title">My Work</h2>
+
+<div class="portfolio-grid">
+
+<div class="project-card">
+<h3>Instagram Reel 1</h3>
+<p>Cinematic Reel Edit</p>
+<a href="https://www.instagram.com/reel/DWlcRBwkdDi/?igsh=cDh2NGh1N256OGpn" target="_blank" class="btn">Watch Now</a>
+</div>
+
+<div class="project-card">
+<h3>Instagram Reel 2</h3>
+<p>Trending Edit</p>
+<a href="https://www.instagram.com/reel/DWqjdoeEoEA/?igsh=Ymp6cTh2d3Fia3Fr" target="_blank" class="btn">Watch Now</a>
+</div>
+
+<div class="project-card">
+<h3>Instagram Post 1</h3>
+<p>Creative Edit</p>
+<a href="https://www.instagram.com/p/DVVs05hgEdR/?igsh=ejFkbXpnMTY5cG04" target="_blank" class="btn">View</a>
+</div>
+
+<div class="project-card">
+<h3>Instagram Post 2</h3>
+<p>Professional Edit</p>
+<a href="https://www.instagram.com/p/DVN3VF9gGzU/?igsh=MWF3dHZrcnNubml4eQ==" target="_blank" class="btn">View</a>
+</div>
+
+<div class="project-card">
+<h3>Instagram Reel 3</h3>
+<p>Velocity Edit</p>
+<a href="https://www.instagram.com/reel/DLHfdxlyqXR/?igsh=NDA4c2N1aWN5eTBq" target="_blank" class="btn">Watch Now</a>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= WHY CHOOSE ME ================= -->
+
+<section id="why">
+
+<div class="container">
+
+<h2 class="title">Why Choose Me?</h2>
+
+<div class="card">
+
+<ul>
+
+<li>✔ 2 Years of Professional Experience</li>
+
+<li>✔ Premium Quality at Affordable Prices</li>
+
+<li>✔ Fast & Reliable Delivery</li>
+
+<li>✔ Creative Trend-Based Editing</li>
+
+<li>✔ Friendly Communication</li>
+
+<li>✔ Client Satisfaction First</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= CONTACT ================= -->
+
+<section id="contact">
+
+<div class="container">
+
+<h2 class="title">Contact Me</h2>
+
+<div class="card">
+
+<h3>Ramiz Editz</h3>
+
+<p>📷 Instagram: @ramiz.99__</p>
+
+<p>📞 Phone: +91 9864444051</p>
+
+<p>Available for Freelance Projects & Collaborations</p>
+
+<a href="https://www.instagram.com/ramiz.99__" target="_blank" class="btn">Instagram</a>
+
+<a href="tel:+9198644444051" class="btn btn2">Call Now</a>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<h2>RAMIZ EDITZ</h2>
+
+<p>Professional Quality • Affordable Price • Fast Delivery</p>
+
+<p>© 2026 Ramiz Editz. All Rights Reserved.</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
